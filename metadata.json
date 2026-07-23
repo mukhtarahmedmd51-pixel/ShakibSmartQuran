@@ -1,0 +1,6 @@
+{
+  "name": "Sakib Muslim Quran",
+  "description": "A modern offline-first Quran app with Bangla & English translations, Tajweed, audio recitations, prayer times, Qibla compass, Tasbih, and Islamic learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
